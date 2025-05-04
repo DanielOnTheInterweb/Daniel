@@ -13,4 +13,3 @@ My journey in computer networks has led me to develop a passion for cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | MOS Certified in Word, Powerpoint, Outlook, and Excel         | <a href="https://www.credly.com/users/daniel-taylor.3e0395fa">Daniel's Credly Page</a>|
-- SOC Automation Project
